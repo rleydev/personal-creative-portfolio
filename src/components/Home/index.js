@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters/index.js';
 import React, { useState, useEffect } from 'react';
+import Logo from './Logo';
 
 const Home = () => {
 
@@ -34,9 +35,10 @@ const Home = () => {
                     <AnimatedLetters lettersClass={letterClass} strArray={jobArray} idx={22} />
                     <br />
                 </h1>
-                <h2>Frontend Dev </h2>
+                <h2>Frontend Developer</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
+            <Logo />
         </div>
     );
 }
