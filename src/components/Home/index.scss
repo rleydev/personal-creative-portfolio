@@ -28,12 +28,12 @@
         }
 
         &::after {
-            content: '<h1>';
+            content: '<h1/>';
             font-family: 'La Belle Aurore';
             color: yellow;
             font-size: 18px;
             position: absolute;
-            margin-top: 45px;
+            margin-top: 75px;
             margin-left: 20px;
             animation: fadeIn 1s 1.7s backwards;
             opacity: 0.6;
