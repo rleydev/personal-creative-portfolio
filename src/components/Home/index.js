@@ -9,7 +9,7 @@ const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = ['r', 't', 'h', 'u', 'r']
-    const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.']
+    const jobArray = ['m', 'e', 'd', 'i', 'a', ' ', 'c', 'r', 'e', 'a', 't', 'o', 'r', '.']
 
     useEffect(() => {
     // Replace the class with a new one after a delay
