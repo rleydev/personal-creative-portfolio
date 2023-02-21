@@ -1,7 +1,7 @@
 {
   "name": "personal-creative-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rleydev.github.io/personal-creative-portfolio/home",
+  "homepage": "https://rleydev.github.io/personal-creative-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
