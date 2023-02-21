@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/personal-creative-portfolio/static/css/main.4cbb3fdc.css",
-    "main.js": "/personal-creative-portfolio/static/js/main.01b6c63c.js",
+    "main.css": "/personal-creative-portfolio/static/css/main.e6dbf6b0.css",
+    "main.js": "/personal-creative-portfolio/static/js/main.64547034.js",
     "static/js/787.4649c24f.chunk.js": "/personal-creative-portfolio/static/js/787.4649c24f.chunk.js",
     "static/media/logo-s.png": "/personal-creative-portfolio/static/media/logo-s.b1c993d51b18a33e92da.png",
-    "static/media/helvetica-neu.ttf": "/personal-creative-portfolio/static/media/helvetica-neu.28933ade93f2a18d9994.ttf",
-    "static/media/CoolveticaRg-Regular.woff2": "/personal-creative-portfolio/static/media/CoolveticaRg-Regular.ccd034325cc588bd0ba1.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/personal-creative-portfolio/static/media/CoolveticaRg-Regular.783e2d5acd662ec1b27f.woff",
-    "static/media/LaBelleAurore.woff2": "/personal-creative-portfolio/static/media/LaBelleAurore.9e0795ed619aea221fff.woff2",
+    "static/media/helvetica-neu.ttf": "/personal-creative-portfolio/static/media/helvetica-neu.67406c65b388d31b9395.ttf",
+    "static/media/CoolveticaRg-Regular.woff2": "/personal-creative-portfolio/static/media/CoolveticaRg-Regular.5a3af6102228228824af.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/personal-creative-portfolio/static/media/CoolveticaRg-Regular.9356b0d38f5c80b84653.woff",
+    "static/media/LaBelleAurore.woff2": "/personal-creative-portfolio/static/media/LaBelleAurore.381d9943231da77902bb.woff2",
     "index.html": "/personal-creative-portfolio/index.html",
-    "main.4cbb3fdc.css.map": "/personal-creative-portfolio/static/css/main.4cbb3fdc.css.map",
-    "main.01b6c63c.js.map": "/personal-creative-portfolio/static/js/main.01b6c63c.js.map",
+    "main.e6dbf6b0.css.map": "/personal-creative-portfolio/static/css/main.e6dbf6b0.css.map",
+    "main.64547034.js.map": "/personal-creative-portfolio/static/js/main.64547034.js.map",
     "787.4649c24f.chunk.js.map": "/personal-creative-portfolio/static/js/787.4649c24f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cbb3fdc.css",
-    "static/js/main.01b6c63c.js"
+    "static/css/main.e6dbf6b0.css",
+    "static/js/main.64547034.js"
   ]
 }
