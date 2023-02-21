@@ -9,7 +9,7 @@
 - @fortawesome libraries
 - Advanced Animations/animate.css
 
-## Deploy Link: https://rleydev.github.io/personal-creative-portfolio/home
+## Deploy Link: https://rleydev.github.io/personal-creative-portfolio/
 
 ## Getting Started with Create React App
 
