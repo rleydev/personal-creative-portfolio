@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Personal website portfolio for creative jobs
+
+**About my creative and technical background and contact info**
+## About:
+- HTML, SASS/SCSS
+- JavaScript/JSX
+- React
+- EmailJS
+- @fortawesome libraries
+- Advanced Animations/animate.css
+
+## Deploy Link: https://rleydev.github.io/personal-creative-portfolio/home
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -9,7 +22,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000/personal-creative-portfolio/home](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
