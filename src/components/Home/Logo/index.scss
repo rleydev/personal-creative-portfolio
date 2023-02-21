@@ -1,0 +1,13 @@
+
+.photo-container {
+    display: block;
+    width: auto;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+
+    .solid-logo {
+        width: 300px;
+        animation: rotateIn 1s 1.8s backwards;
+    }
+}
