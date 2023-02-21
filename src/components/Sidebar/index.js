@@ -4,7 +4,7 @@ import LogoS from '../../assets/images/logo-s.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser , faHome, faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faInstagram, faLinkedin, faYoutube } from '@fortawesome/free-brands-svg-icons';
 
 const Sidebar = () => (
     <div className='nav-bar'>
@@ -25,8 +25,8 @@ const Sidebar = () => (
         </nav>
         <ul>
             <li>
-                <a target='_blank' rel='noreferrer' href='SOMELINK'>
-                    <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
+                <a target='_blank' rel='noreferrer' href='https://www.instagram.com/arleymi/'>
+                    <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
                 </a>
             </li>
             <li>
@@ -35,7 +35,7 @@ const Sidebar = () => (
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='somelink'>
+                <a target='_blank' rel='noreferrer' href='https://www.youtube.com/channel/UCEwYA0MYOnJjch8lRZ8Z-3Q'>
                     <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
                 </a>
             </li>
