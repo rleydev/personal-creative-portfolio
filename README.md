@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Creative personal portfolio developed with React.js
+
+## About:
+- HTML, CSS
+- SASS/SCSS
+- JSX
+- React.js
+- External libraries
+- Email.js
+- CPA
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

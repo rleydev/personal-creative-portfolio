@@ -16,28 +16,28 @@
         font-family: 'Coolvetica';
         font-weight: 400;
 
-        &::before {
-            content: '<h1>';
-            font-family: 'La Belle Aurore';
-            color: yellow;
-            font-size: 18px;
-            position: absolute;
-            margin-top: -40px;
-            left: 15px;
-            opacity: 0.6;
-        }
+        // &::before {
+        //     content: '<h1>';
+        //     font-family: 'Coolvetica';
+        //     color: yellow;
+        //     font-size: 18px;
+        //     position: absolute;
+        //     margin-top: -40px;
+        //     left: 15px;
+        //     opacity: 0.6;
+        // }
 
-        &::after {
-            content: '<h1/>';
-            font-family: 'La Belle Aurore';
-            color: yellow;
-            font-size: 18px;
-            position: absolute;
-            margin-top: 75px;
-            margin-left: 20px;
-            animation: fadeIn 1s 1.7s backwards;
-            opacity: 0.6;
-        }
+        // &::after {
+        //     content: '<h1/>';
+        //     font-family: 'Coolvetica';
+        //     color: yellow;
+        //     font-size: 18px;
+        //     position: absolute;
+        //     margin-top: 30%;
+        //     margin-left: 20px;
+        //     animation: fadeIn 1s 1.7s backwards;
+        //     opacity: 0.6;
+        // }
 
         img {
             width: 80px;
